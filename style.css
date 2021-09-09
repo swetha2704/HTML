@@ -1,0 +1,7 @@
+p{
+    border-style: double;
+}
+table,tr, td 
+{
+    border:1px solid black;
+}
